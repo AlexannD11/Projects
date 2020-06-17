@@ -4,4 +4,5 @@
     echo '<hr>';
     phpinfo();
     echo 'Another comp';
+    $a='Еще изменени¤';
 ?>
